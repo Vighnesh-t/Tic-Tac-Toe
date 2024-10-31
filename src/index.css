@@ -350,7 +350,7 @@ ol {
     transform: scale(1);
   }
 }
-@media (max-width: 660gitpx) {
+@media (max-width: 660px) {
   #game-container {
     width: 23rem;
     margin: 3rem auto;
